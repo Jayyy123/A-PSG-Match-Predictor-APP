@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PSG match Predictor</string>
+    <string name="created_by_jay">Created By Jay</string>
+    <string name="psg_logo">PSG LOGO</string>
+    <string name="login">Login</string>
+    <string name="pass">***********</string>
+    <string name="user">Enter your username</string>
+    <string name="loginS">LogIn</string>
+    <string name="vs">VS</string>
+    <string name="go">Go</string>
+    <string name="champions_ligue">-Champions Ligue</string>
+    <string name="jays_predictor">JAYS PREDICTOR</string>
+</resources>
